@@ -24,29 +24,49 @@ p{
 }
 
 /* h1 h2 p size, except header */
+h1{
+    font-size: 48px;
+    font-weight: normal;
+    margin-bottom: 0;
+}
+p{
+    font-size: 20px;
+}
+button, a{
+    font-size: 20px !important;
+}
 
 
 /* nav : not here================================= */
 
 /* header========================================= */
 header{
-    height: 80vh;
+    height: 100vh;
 }
 header h1{
-    font-size: 56px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 72px;
+    z-index: 10;
+
 }
 #slides{
     position: relative;
     height: 100%;
    }
    .slide:nth-of-type(1){
-    background-image: url("../images/1_wide.jpg");
+    background-image: url("../images/1.jpg");
    }
    .slide:nth-of-type(2){
     background-image: url("../images/2_wide.jpg");
    }
    .slide:nth-of-type(3){
     background-image: url("../images/3_wide.jpg");
+   }
+   .slide:nth-of-type(4){
+    background-image: url("../images/1_wide.jpg");
    }
    .slide{
     position: absolute;
@@ -105,6 +125,26 @@ header h1{
 #menu img{
     width: 100%;
 }
+#menu a{
+    display: inline-block;
+    margin: 10px 6px;
+}
+
+/* catering section================================== */
+#catering img{
+    width: 100%;
+}
+
+/* instagram section================================= */
+#instagram h1{
+    background-color: green;
+    padding: 6px;
+    text-align: center;
+}
+#instagram img{
+    width: 33.3%;
+    cursor: pointer;
+}
 
 /* parallax========================================== */
 .parallax{
@@ -114,6 +154,9 @@ header h1{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+#parallax2{
+    background-image: url('../images/2_wide.jpg');
 }
 /* footer: not here======================================== */
 

@@ -11,7 +11,7 @@ $(document).ready(function(){
             var hash = this.hash;
 
             $("html, body").stop().animate({
-                scrollTop: $(hash).offset().top-57
+                scrollTop: $(hash).offset().top-130
             }, 500, function(){
                 window.location.hash = hash;
             });
@@ -138,6 +138,19 @@ $(document).ready(function(){
     }
 
     $(window).scroll(throttle(callback, 35));
+
+    // change image when hover on category button
+    $('.categoryButton').on('mouseover', function(){
+        console.log('hover');
+        const imgFile = $(this).attr('data-image');
+        $('#menuSectionImage').attr('src', imgFile);
+    });
+
+    // open instagram link when click on thumbnail
+    $('.insta').on('click', function(){
+        const url = $(this).attr('data-link');
+        window.open(url);
+    })
 
 
 });

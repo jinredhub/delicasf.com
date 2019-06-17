@@ -55,19 +55,19 @@
 
 <!-- desktop nav menu -->
 <div class='nav desktopNavContainer disp-flex align-items--center hide-tablet justify-content--center'>
-        <a href="./index.php">About</a>
-        <a href="./price.php">Menu</a>
-        <a href="./contact.php">Reservations</a>
-        <a href="./contact.php">Hours & Location</a>
+        <a href="#aboutHash">About</a>
+        <a href="#menuHash">Menu</a>
+        <a href="#cateringHash">Catering</a>
+        <a href="#hoursHash">Hours & Location</a>
 </div>
 
 <!-- mobile nav menu -->
 <div class='nav mobileNavContainer disp-flex align-items--center show-tablet-flex justify-content--end'>
     <div class="myLinks">
-        <a href="./index.php">About</a>
-        <a href="./price.php">Menu</a>
-        <a href="./contact.php">Reservations</a>
-        <a href="./contact.php">Hours & Location</a>
+        <a href="#aboutHash">About</a>
+        <a href="#menuHash">Menu</a>
+        <a href="#cateringHash">Catering</a>
+        <a href="#hoursHash">Hours & Location</a>
     </div>
     <a href="javascript:void(0);" class='hamburgerIcon' aria-label="click to open mobile navigation menu">
         <i class="fas fa-bars"></i>

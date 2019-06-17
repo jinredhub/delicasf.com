@@ -1,0 +1,141 @@
+
+/* genral==================================================== */
+*{
+    box-sizing: border-box;
+}
+*:focus{
+    /* change blue outline when focusing buttons */
+    outline-color: #727b84;  
+}
+body{
+    background-color: #2d2828;
+    color: white;
+}
+
+section{
+    max-width: 1024px;
+    margin: 0 auto;
+}
+p{
+    line-height: 170%;
+}
+
+/* h1 h2 p size, except header */
+h1{
+    font-size: 48px;
+    font-weight: normal;
+}
+p{
+    font-size: 20px;
+}
+button, a{
+    font-size: 20px !important;
+}
+
+/* nav : not here================================= */
+
+section h1{
+    border-image: linear-gradient(90deg, green, yellow, red);
+    border-bottom: 4px solid transparent;
+    border-image-slice: 0 0 1 0; /* top, right, bottom, left*/
+}
+
+/* footer: not here======================================== */
+
+
+/* media query=================================================== */
+@media(max-width: 768px){
+    .disp-flex{
+        flex-wrap: wrap;
+    }
+    .flex-100{
+    flex: 1 1 100%;
+    }
+    .flex-95{
+    flex: 1 1 100%;
+    }
+    .flex-85{
+    flex: 1 1 100%;
+    }
+    .flex-80 {
+    flex: 1 1 100%;
+    }
+    .flex-75{
+    flex: 1 1 100%;
+    }
+    .flex-40{
+    flex: 1 1 100%;
+    }
+    .flex-50{
+    flex: 1 1 100%;
+    }
+    .flex-66{
+    flex: 1 1 100%;
+    }
+    .flex-60{
+    flex: 1 1 100%;
+    }
+    .flex-66{
+    flex: 1 1 100%;
+    }
+    .flex-33{
+    flex: 1 1 100%;
+    }
+    .flex-25{
+    flex: 1 1 100%;
+    }
+    .flex-20{
+    flex: 1 1 100%;
+    }
+    .flex-15{
+    flex: 1 1 100%;
+    }
+    .flex-10{
+    flex: 1 1 100%;
+    }
+    section h1{
+        font-size: 26px;
+        margin-left: -100px;
+        margin-right: -100px;
+    }
+    section h2{
+        font-size: 18px;
+    }
+    section{
+        max-width: 1024px;
+        margin: 0 100px;
+    }
+    /* ============================================== */
+    /* if you change "section padding lr", change "section h1 margin lr" */
+    header{
+        flex-wrap: nowrap !important;
+    }
+    header h1{
+        font-size: 36px;
+    }
+    .scoreSection img{
+        padding: 20px;
+        width: 30%;
+    }
+    .order1{
+        order: 1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .order2{
+        order: 2;
+    }
+}
+
+/*before reaches smartphones res*/
+@media (max-width: 590px){
+    section h1{
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    section{
+        margin: 0 10px;
+    }
+/* ================================================ */
+}
