@@ -11,7 +11,6 @@ body{
     background-color: #2d2828;
     color: white;
 }
-
 section{
     max-width: 1024px;
     margin: 0 auto;
@@ -21,6 +20,11 @@ p{
 }
 .padding50{
     padding-bottom: 50px;
+}
+
+/* need this when using parallax */
+.bgColor{
+    background-color: #2d2828;
 }
 
 /* h1 h2 p size, except header */
@@ -34,6 +38,10 @@ p{
 }
 button, a{
     font-size: 20px !important;
+}
+.hash{
+    position: relative;
+    top: -70px;
 }
 
 
@@ -57,16 +65,13 @@ header h1{
     height: 100%;
    }
    .slide:nth-of-type(1){
-    background-image: url("../images/1.jpg");
+    background-image: url("../images/top1.jpg");
    }
    .slide:nth-of-type(2){
-    background-image: url("../images/2_wide.jpg");
+    background-image: url("../images/top2.jpg");
    }
    .slide:nth-of-type(3){
-    background-image: url("../images/3_wide.jpg");
-   }
-   .slide:nth-of-type(4){
-    background-image: url("../images/1_wide.jpg");
+    background-image: url("../images/top3.jpg");
    }
    .slide{
     position: absolute;
@@ -147,16 +152,25 @@ header h1{
 }
 
 /* parallax========================================== */
-.parallax{
+.imgContainer{
+    height: 80vh;
+}
+.fixedImage{
     background-image: url('../images/1_wide.jpg');
-    height: 100vh;
-    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+    position: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    z-index: -1;
+    top: 0;
 }
-#parallax2{
+.img2{
     background-image: url('../images/2_wide.jpg');
+}
+.img3{
+    background-image: url('../images/3_wide.jpg');
 }
 /* footer: not here======================================== */
 
@@ -213,15 +227,15 @@ header h1{
     }
     section h1{
         font-size: 26px;
-        margin-left: -100px;
-        margin-right: -100px;
+        /* margin-left: -100px;
+        margin-right: -100px; */
     }
     section h2{
-        font-size: 18px;
+        font-size: 22px;
     }
     section{
         max-width: 1024px;
-        margin: 0 100px;
+        padding: 0 100px;
     }
     /* ============================================== */
     /* if you change "section padding lr", change "section h1 margin lr" */
@@ -229,7 +243,7 @@ header h1{
         flex-wrap: nowrap !important;
     }
     header h1{
-        font-size: 36px;
+        /* font-size: 36px; */
     }
     .scoreSection img{
         padding: 20px;
@@ -244,16 +258,22 @@ header h1{
     .order2{
         order: 2;
     }
+    .imgContainer{
+        height: 50vh;
+    }
 }
 
 /*before reaches smartphones res*/
 @media (max-width: 590px){
+    header h1{
+        font-size: 36px;
+    }
     section h1{
         margin-left: 0px;
         margin-right: 0px;
     }
     section{
-        margin: 0 10px;
+        padding: 0 10px;
     }
 /* ================================================ */
 }

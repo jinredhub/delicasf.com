@@ -632,6 +632,7 @@
     border-radius: 4px;
     color: black;
     background-color: #dddddd;
+    display: inline-block;
 }
 .btn:hover{
     background-color: #cccccc;

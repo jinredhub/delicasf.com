@@ -24,7 +24,7 @@
 
         <!-- nav -->
         <nav>
-            <?php include('header.php'); ?>
+            <?php include('headerWithSlash.php'); ?>
         </nav>
 
         <main>

@@ -44,6 +44,23 @@ section h1{
     border-image-slice: 0 0 1 0; /* top, right, bottom, left*/
 }
 
+.listContainer{
+    background-color: #787878;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+.listContainer li{
+    margin: 6px 0;
+}
+.contactContainer{
+    text-align: center;
+}
+.cancelation{
+    font-weight: bold;
+    color: yellow;
+}
+
 /* footer: not here======================================== */
 
 
@@ -140,6 +157,9 @@ section h1{
     }
     section{
         margin: 0 10px;
+    }
+    ul{
+        padding-left: 10px;
     }
 /* ================================================ */
 }

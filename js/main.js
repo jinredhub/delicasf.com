@@ -11,7 +11,7 @@ $(document).ready(function(){
             var hash = this.hash;
 
             $("html, body").stop().animate({
-                scrollTop: $(hash).offset().top-130
+                scrollTop: $(hash).offset().top
             }, 500, function(){
                 window.location.hash = hash;
             });
@@ -90,7 +90,7 @@ $(document).ready(function(){
         const rect = node.getBoundingClientRect();
         // console.log('rect: ', rect);
         return(
-            // easy explanation of below: Is the parallax node inside the viewport?
+          // easy explanation of below: Is the parallax node inside the viewport?
             (rect.height > 0 || rect.width > 0) && 
             rect.bottom >= 0 && 
             rect.right >= 0 && 
@@ -101,30 +101,20 @@ $(document).ready(function(){
 
     // it is better to create callback function for throttle
     function callback(){
-        // jquery scrollTop returns vertical scrollbar position for that el
-        // when scrollbar is on the top, position is 0.
-        const scrolled = $(window).scrollTop();
-
         // jquery each: fun function for each matched el
-        $('.parallax').each(function(index, el){
-            // jquery offset return offset coordinations for selected el, relative to the document. Top and Left position in pixels.
-            const initY = $(this).offset().top;
-            // jquery height: height of the el
-            const height = $(this).height();
-            // end position of parallax
-            const endY = initY + $(this).height();
-
+        $('.imgContainer').each(function(index, el){
             // check if the el is in the viewport
             const visible = isInViewport(this);
+            
             if(visible){
-                // console.log('yes throttle');
-                const diff = scrolled - initY;
-                const ratio = Math.round((diff/height)*100);
-                $(this).css('background-position', 'center ' + parseInt(-(ratio*1.5))+'px');
+              $(this).find('div').css('opacity', '1');
+              console.log('this: ', this);
+            }
+            else{
+              $(this).find('div').css('opacity', '0');
             }
         });      
     }
-
 
     // JS throttle function
     function throttle(fn, wait){
@@ -139,6 +129,8 @@ $(document).ready(function(){
 
     $(window).scroll(throttle(callback, 35));
 
+    // end parallax=================================================
+    
     // change image when hover on category button
     $('.categoryButton').on('mouseover', function(){
         console.log('hover');
