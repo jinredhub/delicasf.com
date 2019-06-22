@@ -151,6 +151,12 @@ header h1{
     cursor: pointer;
 }
 
+/* hours section===================================== */
+.line{
+    border-bottom: 1px solid gray;
+    margin: 0 30px 20px 0;
+}
+
 /* parallax========================================== */
 .imgContainer{
     height: 80vh;

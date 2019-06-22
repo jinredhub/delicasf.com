@@ -161,6 +161,7 @@
                 <div class='fixedImage img3'></div>  
             </div>
             
+            <!-- hours section -->
             <div class="bgColor">
                 <section id='hours'>
                     <div class="padding50"></div>
@@ -178,6 +179,7 @@
                             </p>
                         </div>
                         <div class="flex-33 padding-left-3">
+                            <div hidden class='line show-tablet'></div>
                             <h2>DELICA</h2>
                             <p>
                                 <i class="fas fa-phone"></i> 415 834 0344 <br>
@@ -186,6 +188,7 @@
                             </p>
                         </div>
                         <div class="flex-33 padding-left-3">
+                            <div hidden class='line show-tablet'></div>
                             <h2>Deli / Lunch</h2>
                             <p> 
                                 Mon-Fri: 10am - 7pm <br>
