@@ -162,7 +162,7 @@ header h1{
     height: 80vh;
 }
 .fixedImage{
-    background-image: url('../images/1_wide.jpg');
+    background-image: url('../images/parallax1.jpg');
     height: 100%;
     width: 100%;
     position: fixed;
@@ -173,11 +173,9 @@ header h1{
     top: 0;
 }
 .img2{
-    background-image: url('../images/2_wide.jpg');
+    background-image: url('../images/parallax2.jpg');
 }
-.img3{
-    background-image: url('../images/3_wide.jpg');
-}
+
 /* footer: not here======================================== */
 
 

@@ -86,37 +86,37 @@
                             <h1>Menu</h1>
                             <p>DELICA is delighted to introduce our distinctively delicious Japanese cuisine, which is born from a Japanese sensibility merged with California vitality. DELICA comes to California eager to learn from and contribute to the thriving food community in the Bay Area.</p>
                             <div style='text-align: center;'>
-                            <a data-image='./images/hoverImage.jpg' class='btn btn-primary categoryButton' href="../images/salad.pdf">Salad</a>
-                            <a data-image='./images/hoverImage.jpg' class='btn btn-primary categoryButton' href="../images/salad.pdf">Deli</a>
-                            <a data-image='./images/hoverImage.jpg' class='btn btn-primary categoryButton' href="../images/salad.pdf">Donburi</a>
-                            <a data-image='./images/hoverImage.jpg' class='btn btn-primary categoryButton' href="../images/salad.pdf">Soup</a>
-                            <a data-image='./images/hoverImage.jpg' class='btn btn-primary categoryButton' href="../images/salad.pdf">Sushi</a>
-                            <a data-image='./images/hoverImage.jpg' class='btn btn-primary categoryButton' href="../images/salad.pdf">Bento</a>
-                            <a data-image='./images/hoverImage.jpg' class='btn btn-primary categoryButton' href="../images/salad.pdf">Sandwich</a>
+                                <a data-image='./images/menu_salad.jpg' class='btn btn-primary categoryButton' href="../images/salad.pdf">Salad</a>
+                                <!-- <a data-image='./images/hoverImage.jpg' class='btn btn-primary categoryButton' href="../images/salad.pdf">Deli</a> -->
+                                <a data-image='./images/menu_donburi.jpg' class='btn btn-primary categoryButton' href="../images/salad.pdf">Donburi</a>
+                                <a data-image='./images/menu_soup.jpg' class='btn btn-primary categoryButton' href="../images/salad.pdf">Soup</a>
+                                <a data-image='./images/menu_sushi.jpg' class='btn btn-primary categoryButton' href="../images/salad.pdf">Sushi</a>
+                                <a data-image='./images/menu_bento.jpg' class='btn btn-primary categoryButton' href="../images/salad.pdf">Bento</a>
+                                <a data-image='./images/menu_sandwich.jpg' class='btn btn-primary categoryButton' href="../images/salad.pdf">Sandwich</a>
                             </div>
                         </div>
                         <div class="flex-40 padding-2">
-                            <img id='menuSectionImage' src="./images/menu.jpg" alt="">
+                            <img id='menuSectionImage' src="./images/menu_sushi.jpg" alt="">
                         </div>
                     </div>
-                    <div class="padding50 hide-mobile"></div>
-                    <div class="padding50 hide-mobile"></div>
+                    <!-- <div class="padding50 hide-mobile"></div> -->
+                    <!-- <div class="padding50 hide-mobile"></div> -->
                     <div class="padding50"></div>
                 </section>
             </div>
             
             
             <!-- parallax -->
-            <div class="imgContainer">
+            <!-- <div class="imgContainer">
                 <div class='fixedImage img2'></div>  
-            </div>
+            </div> -->
 
             <!-- catering section -->
             <div class="bgColor">
                 <section id='catering'>
                     <div class="padding50"></div>
                     <div class="padding50 hide-mobile"></div>
-                    <div class="padding50 hide-mobile"></div>
+                    <!-- <div class="padding50 hide-mobile"></div> -->
                     <div id='cateringHash' class='hash'></div>
                     <div class="disp-flex">
                         <div class="flex-60 disp-flex justify-content--center flex-dir-col padding-2">
@@ -158,7 +158,7 @@
 
             <!-- parallax -->
             <div class="imgContainer">
-                <div class='fixedImage img3'></div>  
+                <div class='fixedImage img2'></div>  
             </div>
             
             <!-- hours section -->
