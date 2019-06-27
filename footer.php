@@ -37,5 +37,5 @@
     <!-- <div class='padding-bottom-2'>
         <button type="button" class='btn github' aria-label="click to go to my github page"><i class="fab fa-github-alt"></i></button>
     </div> -->
-    <p><i class="fas fa-copyright"></i> 2019 Delica</p>
+    <p>Copyright <i class="fas fa-copyright"></i> 2019 Delica</p>
 </div>

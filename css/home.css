@@ -156,6 +156,10 @@ header h1{
     border-bottom: 1px solid gray;
     margin: 0 30px 20px 0;
 }
+.infoLink{
+    text-decoration: none;
+    color: white;
+}
 
 /* parallax========================================== */
 .imgContainer{

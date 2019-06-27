@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="keywords" content="affordable web design in San Francisco, freelancer web developer in bay area, Jin Redmond, WEBデザイン サンフランシスコ, ウェブ制作　ベイエリア、　フリーランス　ウェブ作成　サンフランシスコ">
         <meta name="description" content="Multifunctional designer/fontend developer based in San Francisco">
-        <title>Jin - Web Developer</title>
+        <title>Delica - San Francisco</title>
         <!-- favicon -->
 		<link rel="shortcut icon" href="./images/favicon.ico">
         <!-- google fonts -->
@@ -182,9 +182,9 @@
                             <div hidden class='line show-tablet'></div>
                             <h2>DELICA</h2>
                             <p>
-                                <i class="fas fa-phone"></i> 415 834 0344 <br>
-                                <i class="fas fa-fax"></i> 414 834 0348 <br>
-                                <i class="fas fa-envelope"></i> shop@delicasf.com
+                                <i class="fas fa-phone"></i> <a class='infoLink' href="tel:415-834-0344">415 834 0344</a> <br>
+                                <i class="fas fa-fax"></i> <a class='infoLink' href="fax:414-834-0348"> 414 834 0348</a> <br>
+                                <i class="fas fa-envelope"></i> <a class='infoLink' href="mailto:shop@delicasf.com"> shop@delicasf.com</a>   
                             </p>
                         </div>
                         <div class="flex-33 padding-left-3">

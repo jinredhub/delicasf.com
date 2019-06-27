@@ -43,8 +43,8 @@
 
     /* both============================================ */
     nav{
-        position: -webkit-sticky;
-        position: sticky;
+        position: fixed;
+        width: 100%;
         top: 0;
         z-index: 99;
         border-bottom: 1px solid #a6a6a6;
