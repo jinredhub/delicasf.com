@@ -3,9 +3,9 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="keywords" content="affordable web design in San Francisco, freelancer web developer in bay area, Jin Redmond, WEBデザイン サンフランシスコ, ウェブ制作　ベイエリア、　フリーランス　ウェブ作成　サンフランシスコ">
-        <meta name="description" content="Multifunctional designer/fontend developer based in San Francisco">
-        <title>Jin - Web Developer</title>
+        <meta name="keywords" content="">
+        <meta name="description" content="">
+        <title>Delica - San Francisco</title>
         <!-- favicon -->
 		<link rel="shortcut icon" href="./images/favicon.ico">
         <!-- google fonts -->
@@ -15,7 +15,7 @@
         <!-- normalize -->
         <link rel="stylesheet" href="css/normalize.css">
         <!-- css -->
-		<link rel="stylesheet" type="text/css" href="css/animate.css">
+		<!-- <link rel="stylesheet" type="text/css" href="css/animate.css"> -->
 		<link rel="stylesheet" type="text/css" href="css/style.css">
         <link rel="stylesheet" type="text/css" href="css/history.css">
         
@@ -69,10 +69,10 @@
         crossorigin="anonymous"></script>
         
         <!-- lazysizes -->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/4.1.8/lazysizes.min.js"></script>
+        <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/4.1.8/lazysizes.min.js"></script> -->
         
-        <script src="js/wow.min.js"></script>
-        <!-- <script src="js/main.js"></script> -->
+        <!-- <script src="js/wow.min.js"></script> -->
+        <script src="js/history.js"></script>
 
     </body>
 </html>

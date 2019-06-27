@@ -24,6 +24,7 @@
         position: absolute;
         width: 100%;
         top: 100%;
+        background-color: rgba(60, 57, 57, 1);
     }
     .mobileNavContainer a{
         color: white;
@@ -31,20 +32,20 @@
         text-decoration: none;
         font-size: 17px;
         display: block;
-        background-color: #fcfbfa;
+        /* background-color: #fcfbfa; */
     }
     .mobileNavContainer .hamburgerIcon{
         background-color: transparent;
         display: block;
     }
     .mobileNavContainer a:hover{
-        background-color: #e0e0e0;
+        background-color: #4c4c4c;
     }
 
     /* both============================================ */
     nav{
-        position: -webkit-sticky;
-        position: sticky;
+        position: fixed;
+        width: 100%;
         top: 0;
         z-index: 99;
         border-bottom: 1px solid #a6a6a6;
