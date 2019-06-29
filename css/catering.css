@@ -121,6 +121,7 @@ section h1{
     }
     section h2{
         font-size: 22px;
+        margin-bottom: 0;
     }
     section{
         max-width: 1024px;

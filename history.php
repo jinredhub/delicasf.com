@@ -30,6 +30,7 @@
         <main>
             <section>
                 <div class='padding50'></div>
+                <div class='padding50'></div>
                 <div class='padding-2'>
                     <h1>ABOUT US</h1>
 
