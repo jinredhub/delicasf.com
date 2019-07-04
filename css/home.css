@@ -142,7 +142,7 @@ header h1{
 
 /* instagram section================================= */
 #instagram h1{
-    background-color: green;
+    background-color: #99ba00;
     padding: 6px;
     text-align: center;
 }
@@ -178,6 +178,12 @@ header h1{
 }
 .img2{
     background-image: url('../images/parallax2.jpg');
+}
+.parallax-border-top{
+    border-top: 1px solid #abd251;
+}
+.parallax-border-bottom{
+    border-bottom: 1px solid #abd251;
 }
 
 /* footer: not here======================================== */
@@ -245,6 +251,12 @@ header h1{
         max-width: 1024px;
         padding: 0 100px;
     }
+    #instagram h1{
+        font-size: 26px;
+    }
+    .fa-instagram{
+        font-size: 30px !important;
+    }
     /* ============================================== */
     /* if you change "section padding lr", change "section h1 margin lr" */
     header{
@@ -282,6 +294,10 @@ header h1{
     }
     section{
         padding: 0 10px;
+    }
+    #instagram img{
+        width: 50%;
+        cursor: pointer;
     }
 /* ================================================ */
 }

@@ -29,7 +29,7 @@
         </nav>
 
         <!-- title section -->
-    	<header>
+    	<header class='parallax-border-bottom'>
             <div id='slides'>
                 <h1>DELICA</h1>
                 <div class='slide showing'></div>
@@ -43,7 +43,7 @@
 
         <main onClick='return true'>
             <!-- about section -->
-            <div class='bgColor'>
+            <div class='bgColor parallax-border-bottom'>
                 <section id='about'>
                     <div class="padding50"></div>
                     <div class="padding50 hide-tablet"></div>
@@ -75,7 +75,7 @@
             </div>
 
             <!-- menu section -->
-            <div class="bgColor">
+            <div class="bgColor parallax-border-top">
                 <section id='menu'>
                     <div class="padding50"></div>
                     <div class="padding50 hide-tablet"></div>
@@ -104,12 +104,6 @@
                     <div class="padding50"></div>
                 </section>
             </div>
-            
-            
-            <!-- parallax -->
-            <!-- <div class="imgContainer">
-                <div class='fixedImage img2'></div>  
-            </div> -->
 
             <!-- catering section -->
             <div class="bgColor">
@@ -142,16 +136,16 @@
             </div>
            
             <!-- instagram section -->
-            <div class="bgColor">
+            <div class="bgColor parallax-border-bottom">
                 <div id='instagram'>
                     <h1>Follow us on <i class="fab fa-instagram" style='font-size: 56px;'></i></h1>
                     <div class='disp-flex align-items--flex-start flex-wrap'>
-                        <img src="./images/insta1.png" alt="" class='insta' data-link='https://www.instagram.com/p/BCvyVIno8es/?utm_source=ig_web_copy_link'>
-                        <img src="./images/insta1.png" alt="" class='insta' data-link='https://www.instagram.com/p/BCvyVIno8es/?utm_source=ig_web_copy_link'>
-                        <img src="./images/insta1.png" alt="" class='insta' data-link='https://www.instagram.com/p/BCvyVIno8es/?utm_source=ig_web_copy_link'>
-                        <img src="./images/insta1.png" alt="" class='insta' data-link='https://www.instagram.com/p/BCvyVIno8es/?utm_source=ig_web_copy_link'>
-                        <img src="./images/insta1.png" alt="" class='insta' data-link='https://www.instagram.com/p/BCvyVIno8es/?utm_source=ig_web_copy_link'>
-                        <img src="./images/insta1.png" alt="" class='insta' data-link='https://www.instagram.com/p/BCvyVIno8es/?utm_source=ig_web_copy_link'>
+                        <img src="./images/insta1.png" alt="" class='insta' data-link='https://www.instagram.com/p/BcqFGa0hbiX/?utm_source=ig_web_copy_link'>
+                        <img src="./images/insta1.png" alt="" class='insta' data-link='https://www.instagram.com/p/BcqFGa0hbiX/?utm_source=ig_web_copy_link'>
+                        <img src="./images/insta1.png" alt="" class='insta hide-mobile' data-link='https://www.instagram.com/p/BcqFGa0hbiX/?utm_source=ig_web_copy_link'>
+                        <img src="./images/insta1.png" alt="" class='insta' data-link='https://www.instagram.com/p/BcqFGa0hbiX/?utm_source=ig_web_copy_link'>
+                        <img src="./images/insta1.png" alt="" class='insta' data-link='https://www.instagram.com/p/BcqFGa0hbiX/?utm_source=ig_web_copy_link'>
+                        <img src="./images/insta1.png" alt="" class='insta hide-mobile' data-link='https://www.instagram.com/p/BcqFGa0hbiX/?utm_source=ig_web_copy_link'>
                     </div>
                 </div>
             </div>
@@ -162,7 +156,7 @@
             </div>
             
             <!-- hours section -->
-            <div class="bgColor">
+            <div class="bgColor parallax-border-top">
                 <section id='hours'>
                     <div class="padding50"></div>
                     <div class="padding50 hide-tablet"></div>
@@ -244,7 +238,7 @@
                         </div>
                     </div>
                     <div class="padding50 hide-tablet"></div>
-                    <div class="padding50 hide-tablet"></div>
+                    <div class="padding50"></div>
                     <div class="padding50"></div>
                 </section>
             </div>
