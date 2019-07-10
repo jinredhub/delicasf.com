@@ -640,7 +640,7 @@
 .btn-primary{
     color: white;
     background-color: #99ba00;
-    font-weight: bold;
+    /* font-weight: bold; */
 }
 .btn-primary:hover{
     background-color: #a6c126;

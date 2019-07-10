@@ -106,7 +106,7 @@
             </div>
 
             <!-- catering section -->
-            <div class="bgColor">
+            <div class="bgColor parallax-border-bottom">
                 <section id='catering'>
                     <div class="padding50 hide-tablet"></div>
                     <div class="padding50 hide-tablet"></div>
@@ -136,7 +136,7 @@
             </div>
            
             <!-- instagram section -->
-            <div class="bgColor parallax-border-bottom">
+            <!-- <div class="bgColor parallax-border-bottom">
                 <div id='instagram'>
                     <h1>Follow us on <i class="fab fa-instagram" style='font-size: 56px;'></i></h1>
                     <div class='disp-flex align-items--flex-start flex-wrap'>
@@ -148,7 +148,7 @@
                         <img src="./images/insta1.png" alt="" class='insta hide-mobile' data-link='https://www.instagram.com/p/BcqFGa0hbiX/?utm_source=ig_web_copy_link'>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <!-- parallax -->
             <div class="imgContainer">

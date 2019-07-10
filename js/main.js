@@ -73,7 +73,7 @@ $(document).ready(function(){
         setTimeout(autoSlideV2, 5000);
     }
 
-    setTimeout(autoSlideV2, 5000);
+    // setTimeout(autoSlideV2, 5000);
 
     $('.prev').on('click', function(){
       nextSlide('previous');
