@@ -152,10 +152,17 @@ header .titleContainer{
     border-radius: 100px;
     margin-bottom: 10px;
 }
+.caviarButton:hover{
+    background-color: #e96a02;
+}
+
 .doordashButton{
     background-color: #f50000;
     color: white;
     border-radius: 100px;
+}
+.doordashButton:hover{
+    background-color: #e60202;
 }
 
 /* catering section================================== */

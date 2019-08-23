@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="keywords" content="">
+        <meta name="keywords" content="japanese deli food ">
         <meta name="description" content="">
         <title>Delica - San Francisco</title>
         <!-- favicon -->
@@ -119,8 +119,8 @@
                             <p>Need a quick meal? Order online from these food delivery services.</p>
                         </div>
                         <div class="flex-40 disp-flex justify-content--center align-items--flex-start flex-dir-col">
-                            <a class='btn caviarButton' href="https://trycaviar.app.link/kf8cLE2XTX">Order online with <strong>CAVIAR</strong> <i class="fas fa-external-link-alt"></i></a>
-                            <a class='btn doordashButton' href="https://www.doordash.com/business/218107/?utm_source=partner-link&utm_medium=website&utm_campaign=218107">Order online with <strong>DOORDASH</strong> <i class="fas fa-external-link-alt"></i></a>
+                            <a target='_self' class='btn caviarButton' href="https://trycaviar.app.link/kf8cLE2XTX">Order online with <strong>CAVIAR</strong> <i class="fas fa-external-link-alt"></i></a>
+                            <a target='_self' class='btn doordashButton' href="https://www.doordash.com/business/218107/?utm_source=partner-link&utm_medium=website&utm_campaign=218107">Order online with <strong>DOORDASH</strong> <i class="fas fa-external-link-alt"></i></a>
                         </div>
                     </div>
                     <div class="padding50 hide-tablet"></div>
