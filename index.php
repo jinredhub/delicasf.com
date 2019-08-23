@@ -31,7 +31,11 @@
         <!-- title section -->
     	<header class='parallax-border-bottom'>
             <div id='slides'>
-                <h1>DELICA</h1>
+                <!-- <h1>DELICA</h1> -->
+                <span class='titleContainer'>
+                    <h1>DELICA</h1>
+                    <p>JAPANESE DELI</p>
+                </span> 
                 <div class='slide showing'></div>
                 <div class='slide'></div>
                 <div class='slide'></div>
@@ -59,7 +63,7 @@
                             </div>
                         </div>
                         <div class="flex-40 padding-2">
-                            <img src="./images/history.jpg" alt="">
+                            <img data-src="./images/history.jpg" alt="soup" class='lazyload'>
                         </div>
                     </div>
                     <div class="padding50 hide-tablet"></div>
@@ -96,12 +100,32 @@
                             </div>
                         </div>
                         <div class="flex-40 padding-2">
-                            <img id='menuSectionImage' src="./images/menu_sushi.jpg" alt="">
+                            <img id='menuSectionImage' data-src="./images/menu_sushi.jpg" alt="sushi" class='lazyload'>
                         </div>
                     </div>
                     <!-- <div class="padding50 hide-mobile"></div> -->
                     <!-- <div class="padding50 hide-mobile"></div> -->
                     <div class="padding50"></div>
+                </section>
+            </div>
+
+            <!-- online order section -->
+            <div class='bgColor'>
+                <section id='onlineOrder'>
+                    <div class="padding50"></div>
+                    <div class="disp-flex">
+                        <div class="flex-60 disp-flex justify-content--center flex-dir-col padding-2">
+                            <h1>Order Online</h1>
+                            <p>Need a quick meal? Order online from these food delivery services.</p>
+                        </div>
+                        <div class="flex-40 disp-flex justify-content--center align-items--flex-start flex-dir-col">
+                            <a class='btn caviarButton' href="https://trycaviar.app.link/kf8cLE2XTX">Order online with <strong>CAVIAR</strong> <i class="fas fa-external-link-alt"></i></a>
+                            <a class='btn doordashButton' href="https://www.doordash.com/business/218107/?utm_source=partner-link&utm_medium=website&utm_campaign=218107">Order online with <strong>DOORDASH</strong> <i class="fas fa-external-link-alt"></i></a>
+                        </div>
+                    </div>
+                    <div class="padding50 hide-tablet"></div>
+                    <!-- <div class="padding50"></div> -->
+                    <!-- <div class="padding50"></div> -->
                 </section>
             </div>
 
@@ -126,7 +150,7 @@
                             </div>
                         </div>
                         <div class="flex-40 padding-2">
-                            <img src="./images/menu.jpg" alt="">
+                            <img data-src="./images/menu.jpg" alt="catering" class='lazyload'>
                         </div>
                     </div>
                     <div class="padding50 hide-tablet"></div>
@@ -192,7 +216,7 @@
                         </div>
                     </div>
 
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.7638147308126!2d-122.39551484961034!3d37.79557451863724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808580668e8f3159%3A0xcf1057f9175e312e!2sDelica!5e0!3m2!1sen!2sus!4v1560732609379!5m2!1sen!2sus" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <iframe class='lazyload' data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.7638147308126!2d-122.39551484961034!3d37.79557451863724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808580668e8f3159%3A0xcf1057f9175e312e!2sDelica!5e0!3m2!1sen!2sus!4v1560732609379!5m2!1sen!2sus" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
 
                     <div class="padding50 hide-tablet"></div>
                     <div class="padding50 hide-tablet"></div>
@@ -220,29 +244,6 @@
                     <div class="padding50"></div>
                 </section>
             </div>
-            
-             <!-- doordash section -->
-             <div class='bgColor'>
-                <section id='facebook'>
-                    <div class="padding50"></div>
-                    <!-- <div class="padding50 hide-mobile"></div> -->
-                    <!-- <div class="padding50 hide-mobile"></div> -->
-                    <!-- <div id='aboutHash' class='hash'></div> -->
-                    <div class="disp-flex">
-                        <div class="flex-60 disp-flex justify-content--center flex-dir-col padding-2">
-                            <h1>Doordash</h1>
-                            <p>Need a quick meal? We are available thourgh DoorDash. No waiting in line.</p>
-                        </div>
-                        <div class="flex-40 disp-flex justify-content--center align-items--center">
-                            <button type='button'>Doordash button</button>
-                        </div>
-                    </div>
-                    <div class="padding50 hide-tablet"></div>
-                    <div class="padding50"></div>
-                    <div class="padding50"></div>
-                </section>
-            </div>
-           
                    
             
         </main>

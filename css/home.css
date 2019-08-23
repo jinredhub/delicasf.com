@@ -52,13 +52,22 @@ header{
     height: 100vh;
 }
 header h1{
+    font-size: 78px;
+}
+header p{
+    margin: 0;
+    font-size: 26px;
+}
+header .titleContainer{
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 72px;
     z-index: 10;
-
+    background-color: transparent;
+    color: white;
+    text-align: center;
 }
 #slides{
     position: relative;
@@ -134,6 +143,19 @@ header h1{
 #menu a{
     display: inline-block;
     margin: 10px 6px;
+}
+
+/* online order section ====================== */
+.caviarButton{
+    background-color: #fe7300;
+    color: white;
+    border-radius: 100px;
+    margin-bottom: 10px;
+}
+.doordashButton{
+    background-color: #f50000;
+    color: white;
+    border-radius: 100px;
 }
 
 /* catering section================================== */
@@ -287,7 +309,10 @@ header h1{
 /*before reaches smartphones res*/
 @media (max-width: 590px){
     header h1{
-        font-size: 36px;
+        font-size: 46px;
+    }
+    header p{
+        font-size: 18px;
     }
     section h1{
         margin-left: 0px;
