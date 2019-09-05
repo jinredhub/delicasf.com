@@ -3,8 +3,8 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="keywords" content="">
-        <meta name="description" content="">
+        <meta name="keywords" content="authentic, vegan, vegetarian, organic, gluten-free option, California cuisine">
+        <meta name="description" content="Authentic Japanese Delicatessen Organic・Local・All Fresh. We offer vegan, vegetarian and gluten-free options">
         <title>Delica - San Francisco</title>
         <!-- favicon -->
 		<link rel="shortcut icon" href="./images/favicon.ico">
