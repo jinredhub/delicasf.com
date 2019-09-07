@@ -211,7 +211,7 @@
                             <p> 
                                 Mon-Fri: 10am - 7pm <br>
                                 Sat: 9am - 6pm <br>
-                                Sun: 10am - 6pm <br>
+                                Sun: 10am - 5pm <br>
                             </p>
                         </div>
                     </div>
