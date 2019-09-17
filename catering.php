@@ -90,7 +90,7 @@
                     <div class='listContainer'>
                         <ul>
                             <li>All menu items are available for catering.</li>
-                            <li>Vegetarian and vegan selections are alsl available.</li>
+                            <li>Vegetarian and vegan selections are also available.</li>
                             <li>Free delivery to the greater San Francisco area with order of $250 or more, or a $25 fee for delivery.</li>
                             <li>There is a 5% service charge for Buffet Style catering to meet the cost of packaging and presentation.</li>
                             <li>Please allow 48 hours advance notice for large deliveries, or special orders.</li>
