@@ -210,7 +210,7 @@
                             <h2>Deli / Lunch</h2>
                             <p> 
                                 Mon-Fri: 10am - 7pm <br>
-                                Sat: 9am - 6pm <br>
+                                Sat: 9am - 7pm <br>
                                 Sun: 10am - 5pm <br>
                             </p>
                         </div>
