@@ -18,7 +18,7 @@
         <!-- css -->
 		<link rel="stylesheet" type="text/css" href="css/animate.css">
 		<link rel="stylesheet" type="text/css" href="css/style.css">
-        <link rel="stylesheet" type="text/css" href="css/home.css?version=1">
+        <link rel="stylesheet" type="text/css" href="css/home.css?version=4">
         
     </head>
     <body>
@@ -90,13 +90,13 @@
                             <h1>Menu</h1>
                             <p>DELICA is delighted to introduce our distinctively delicious Japanese cuisine, which is born from a Japanese sensibility merged with California vitality. DELICA comes to California eager to learn from and contribute to the thriving food community in the Bay Area.</p>
                             <div style='text-align: center;'>
-                                <a data-image='./images/menu_salad.jpg' class='btn btn-primary categoryButton' href="../images/menu/salad.pdf?version=3">Salad</a>
-                                <a data-image='./images/menu_deli.jpg' class='btn btn-primary categoryButton' href="../images/menu/deli.pdf?version=3">Deli</a>
-                                <a data-image='./images/menu_donburi.jpg' class='btn btn-primary categoryButton' href="../images/menu/donburi.pdf?version=3">Donburi</a>
-                                <a data-image='./images/menu_soup.jpg' class='btn btn-primary categoryButton' href="../images/menu/soup.pdf?version=3">Soup</a>
-                                <a data-image='./images/menu_sushi.jpg' class='btn btn-primary categoryButton' href="../images/menu/sushi.pdf?version=3">Sushi</a>
-                                <a data-image='./images/menu_bento.jpg' class='btn btn-primary categoryButton' href="../images/menu/bento.pdf?version=3">Bento</a>
-                                <a data-image='./images/menu_sandwich.jpg' class='btn btn-primary categoryButton' href="../images/menu/sandwich.pdf?version=3">Sandwich</a>
+                                <a data-image='./images/menu_salad.jpg' class='btn btn-primary categoryButton' href="../images/menu/salad.pdf?version=4">Salad</a>
+                                <a data-image='./images/menu_deli.jpg' class='btn btn-primary categoryButton' href="../images/menu/deli.pdf?version=4">Deli</a>
+                                <a data-image='./images/menu_donburi.jpg' class='btn btn-primary categoryButton' href="../images/menu/donburi.pdf?version=4">Donburi</a>
+                                <a data-image='./images/menu_soup.jpg' class='btn btn-primary categoryButton' href="../images/menu/soup.pdf?version=4">Soup</a>
+                                <a data-image='./images/menu_sushi.jpg' class='btn btn-primary categoryButton' href="../images/menu/sushi.pdf?version=4">Sushi</a>
+                                <a data-image='./images/menu_bento.jpg' class='btn btn-primary categoryButton' href="../images/menu/bento.pdf?version=4">Bento</a>
+                                <a data-image='./images/menu_sandwich.jpg' class='btn btn-primary categoryButton' href="../images/menu/sandwich.pdf?version=4">Sandwich</a>
                             </div>
                         </div>
                         <div class="flex-40 padding-2">
