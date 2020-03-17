@@ -35,6 +35,7 @@
                 <span class='titleContainer'>
                     <h1>DELICA</h1>
                     <p>JAPANESE DELI</p>
+                    <p style='background-color: rgba(0,0,0,0.6); border-radius: 100px; border: 1px solid #00dcff; padding: 0 6px;'>We are open today 3/17</p>
                 </span> 
                 <div class='slide showing'></div>
                 <div class='slide'></div>
@@ -240,7 +241,7 @@
                             <h1>Announcements</h1>
                             <p>We post holidays and special offers. Check out our seasonal dishes.</p>
                         </div>
-                        <div class="flex-40 disp-flex justify-content--center">
+                        <div class="flex-40 disp-flex justify-content--center" style='overflow-x: auto;'>
                         <iframe class='lazyload' data-src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FDELICAsf%2F&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                                 <!-- <a class="twitter-timeline" data-height="700" data-theme="light" href="https://twitter.com/DELICAsf?ref_src=twsrc%5Etfw">Tweets by DELICAsf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->                        </div>
                     </div>
