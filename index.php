@@ -35,7 +35,7 @@
                 <span class='titleContainer'>
                     <h1>DELICA</h1>
                     <p>JAPANESE DELI</p>
-                    <p style='background-color: rgba(0,0,0,0.6); border-radius: 100px; border: 1px solid #00dcff; padding: 0 6px;'>We are open today 3/17</p>
+                    <p style='background-color: rgba(0,0,0,0.6); border-radius: 100px; border: 1px solid #00dcff; padding: 0 6px;'>We are open</p>
                 </span> 
                 <div class='slide showing'></div>
                 <div class='slide'></div>
