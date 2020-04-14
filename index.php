@@ -35,7 +35,7 @@
                 <span class='titleContainer'>
                     <h1>DELICA</h1>
                     <p>JAPANESE DELI</p>
-                    <p style='background-color: rgba(0,0,0,0.6); border-radius: 100px; border: 1px solid #00dcff; padding: 0 6px;'>We are open</p>
+                    <p style='background-color: rgba(0,0,0,0.6); border-radius: 16px; border: 1px solid #00dcff; padding: 0 6px; max-width: 400px;'>We are open Monday to Saturday 10AM to 6PM until May 3rd.</p>
                 </span> 
                 <div class='slide showing'></div>
                 <div class='slide'></div>
