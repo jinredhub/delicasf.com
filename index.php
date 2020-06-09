@@ -207,7 +207,8 @@
                             <p>
                                 <i class="fas fa-phone"></i> <a class='infoLink' href="tel:415-834-0344">415 834 0344</a> <br>
                                 <i class="fas fa-fax"></i> <a class='infoLink' href="fax:414-834-0348"> 414 834 0348</a> <br>
-                                <i class="fas fa-envelope"></i> <a class='infoLink' href="mailto:shop@delicasf.com"> shop@delicasf.com</a>   
+                                <!-- <i class="fas fa-envelope"></i> <a class='infoLink' href="mailto:shop@delicasf.com"> shop@delicasf.com</a>    -->
+                                <i class="fas fa-envelope"></i> <a class='infoLink' href="mailto:delicasf.akiko@gmail.com"> Email Us</a>   
                             </p>
                         </div>
                         <div class="flex-33 padding-left-3">
