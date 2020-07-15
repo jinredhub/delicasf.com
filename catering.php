@@ -104,7 +104,7 @@
                     <p>
                         Want to learn more? Please let us know. <br>
                     </p>
-                    <a class='btn btn-primary' href="mailto:delicasf.akiko@gmail.com"><i class="fas fa-envelope"></i> Contact</a>
+                    <a class='btn btn-primary' href="mailto:shop@delicasf.com"><i class="fas fa-envelope"></i> Contact</a>
 
                 </div>
                 

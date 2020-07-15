@@ -207,17 +207,16 @@
                             <p>
                                 <i class="fas fa-phone"></i> <a class='infoLink' href="tel:415-834-0344">415 834 0344</a> <br>
                                 <i class="fas fa-fax"></i> <a class='infoLink' href="fax:414-834-0348"> 414 834 0348</a> <br>
-                                <!-- <i class="fas fa-envelope"></i> <a class='infoLink' href="mailto:shop@delicasf.com"> shop@delicasf.com</a>    -->
-                                <i class="fas fa-envelope"></i> <a class='infoLink' href="mailto:delicasf.akiko@gmail.com"> Email Us</a>   
+                                <i class="fas fa-envelope"></i> <a class='infoLink' href="mailto:shop@delicasf.com"> shop@delicasf.com</a>   
+                                <!-- <i class="fas fa-envelope"></i> <a class='infoLink' href="mailto:delicasf.akiko@gmail.com"> Email Us</a>    -->
                             </p>
                         </div>
                         <div class="flex-33 padding-left-3">
                             <div hidden class='line show-tablet'></div>
                             <h2>Deli / Lunch</h2>
                             <p> 
-                                Mon-Fri: 10am - 7pm <br>
-                                Sat: 9am - 7pm <br>
-                                Sun: 10am - 5pm <br>
+                                Mon-Sat: 10am - 5pm <br>
+                                Sun: Closed <br>
                             </p>
                         </div>
                     </div>
