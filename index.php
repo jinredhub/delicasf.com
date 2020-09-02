@@ -101,7 +101,7 @@
                             </div>
                             <div class='message message-warning'>
                                 <strong>These items are temporarily unavailable</strong><br/>
-                                Wasabi potato salad, Futomaki roll, Crab croquette, Chicken dumpling, Tofu chicken patty Sandwitch
+                                Futomaki roll, Tofu chicken patty Sandwitch
                             </div>
                         </div>
                         <div class="flex-40 padding-2">
@@ -121,10 +121,9 @@
                     <div class="disp-flex">
                         <div class="flex-60 disp-flex justify-content--center flex-dir-col padding-2">
                             <h1>Order Online</h1>
-                            <p>Need a quick meal? Order online from these food delivery services.</p>
+                            <p>Need a quick meal? Order online from this food delivery service.</p>
                         </div>
                         <div class="flex-40 disp-flex justify-content--center align-items--flex-start flex-dir-col">
-                            <a target='_self' class='btn caviarButton' href="https://trycaviar.app.link/kf8cLE2XTX">Order online with <strong>CAVIAR</strong> <i class="fas fa-external-link-alt"></i></a>
                             <a class='btn doordashButton' href="https://www.doordash.com/business/218107/?utm_source=partner-link&utm_medium=website&utm_campaign=218107">Order online with <strong>DOORDASH</strong> <i class="fas fa-external-link-alt"></i></a>
                         </div>
                     </div>
