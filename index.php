@@ -36,9 +36,6 @@
                     <h1>DELICA</h1>
                     <p>JAPANESE DELI</p>
                     <p style='background-color: rgba(0,0,0,0.6); border-radius: 16px; border: 1px solid #00dcff; padding: 0 6px; max-width: 400px; margin-top: 14px;'>
-                        <span style='background-color: transparent; color: white; display: block; line-height: 150%; border-bottom: 1px solid #eee; padding: 8px 0;'>
-                            We will be close on Thanksgiving Day (November 26)
-                        </span>
                         Monday to Saturday<br>10AM to 5PM.
                     </p>
                 </span> 
