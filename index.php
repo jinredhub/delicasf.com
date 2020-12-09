@@ -38,7 +38,9 @@
                     <p style='background-color: rgba(0,0,0,0.6); border-radius: 16px; border: 1px solid #00dcff; padding: 0 6px; max-width: 400px; margin-top: 14px;'>
                         Monday to Saturday<br>10AM to 5PM.
                     </p>
+                    <a class='btn doordashButton' style='border-radius: 4px; margin-top: 10px;' href="https://www.doordash.com/business/218107/?utm_source=partner-link&utm_medium=website&utm_campaign=218107"><span style='font-size: 16px; background-color: transparent; color: white;'>Order online with</span> <strong>DOORDASH</strong></a>
                 </span> 
+
                 <div class='slide showing'></div>
                 <div class='slide'></div>
                 <div class='slide'></div>
