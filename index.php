@@ -60,7 +60,7 @@
                     <div id='aboutHash' class='hash'></div>
                     <div class="disp-flex">
                         <div class="flex-60 disp-flex justify-content--center flex-dir-col padding-2">
-                            <h1>About</h1>
+                            <h2>About</h2>
                             <p>DELICA is delighted to introduce our distinctively delicious Japanese cuisine, which is born from a Japanese sensibility merged with California vitality. DELICA comes to California eager to learn from and contribute to the thriving food community in the Bay Area.</p>
                             <br>
                             <div style='text-align: center;'>
@@ -92,7 +92,7 @@
                     <div id='menuHash' class='hash'></div>
                     <div class="disp-flex">
                         <div class="flex-60 disp-flex justify-content--center flex-dir-col padding-2">
-                            <h1>Menu</h1>
+                            <h2>Menu</h2>
                             <p>DELICA is delighted to introduce our distinctively delicious Japanese cuisine, which is born from a Japanese sensibility merged with California vitality. DELICA comes to California eager to learn from and contribute to the thriving food community in the Bay Area.</p>
                             <div style='text-align: center;'>
                                 <a data-image='./images/menu_salad.jpg' class='btn btn-primary categoryButton' href="../images/menu/salad.pdf?version8">Salad</a>
@@ -124,7 +124,7 @@
                     <div class="padding50"></div>
                     <div class="disp-flex">
                         <div class="flex-60 disp-flex justify-content--center flex-dir-col padding-2">
-                            <h1>Order Online</h1>
+                            <h2>Order Online</h2>
                             <p>Need a quick meal? Order online from this food delivery service.</p>
                         </div>
                         <div class="flex-40 disp-flex justify-content--center align-items--flex-start flex-dir-col">
@@ -140,13 +140,13 @@
             <!-- catering section -->
             <div class="bgColor parallax-border-bottom">
                 <section id='catering'>
-                    <div class="padding50 hide-tablet"></div>
+                    <div class="padding50"></div>
                     <div class="padding50 hide-tablet"></div>
                     <!-- <div class="padding50 hide-mobile"></div> -->
                     <div id='cateringHash' class='hash'></div>
                     <div class="disp-flex">
                         <div class="flex-60 disp-flex justify-content--center flex-dir-col padding-2">
-                            <h1>Catering</h1>
+                            <h2>Catering</h2>
                             <p>
                                 DELICA specializes in company and special event catering throughout the greater San Francisco carea.
                                 We arrange our food on platters suitable for parties, executive dinners,
@@ -194,10 +194,10 @@
                     <div class="padding50 hide-tablet"></div>
                     <div class="padding50 hide-tablet"></div>
                     <div id='hoursHash' class='hash'></div>
-                    <h1 hidden>Store Info</h1>
+                    <h2 hidden>Store Info</h2>
                     <div class='disp-flex'>
                         <div class="flex-33 padding-left-3">
-                            <h2>Location</h2>
+                            <h3>Location</h3>
                             <p> 
                                 San Francisco Ferry Building <br>
                                 1 FERRY BLDG SHOP 45 <br>
@@ -206,7 +206,7 @@
                         </div>
                         <div class="flex-33 padding-left-3">
                             <div hidden class='line show-tablet'></div>
-                            <h2>DELICA</h2>
+                            <h3>DELICA</h3>
                             <p>
                                 <i class="fas fa-phone"></i> <a class='infoLink' href="tel:415-834-0344">415 834 0344</a> <br>
                                 <i class="fas fa-fax"></i> <a class='infoLink' href="fax:414-834-0348"> 415 834 0348</a> <br>
@@ -216,7 +216,7 @@
                         </div>
                         <div class="flex-33 padding-left-3">
                             <div hidden class='line show-tablet'></div>
-                            <h2>Deli / Lunch</h2>
+                            <h3>Deli / Lunch</h3>
                             <p> 
                                 Mon-Sat: 10am - 5pm <br>
                                 Sun: Closed <br>
@@ -241,7 +241,7 @@
                     <!-- <div id='aboutHash' class='hash'></div> -->
                     <div class="disp-flex">
                         <div class="flex-60 disp-flex justify-content--center flex-dir-col padding-2">
-                            <h1>Announcements</h1>
+                            <h2>Announcements</h2>
                             <p>We post holidays and special offers. Check out our seasonal dishes.</p>
                         </div>
                         <div class="flex-40 disp-flex justify-content--center" style='overflow-x: auto;'>

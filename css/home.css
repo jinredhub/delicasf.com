@@ -28,9 +28,13 @@ p{
 }
 
 /* h1 h2 p size, except header */
-h1{
+h1, h2{
     font-size: 48px;
     font-weight: normal;
+    margin-bottom: 0;
+}
+h3{
+    font-size: 24px;
     margin-bottom: 0;
 }
 p{
