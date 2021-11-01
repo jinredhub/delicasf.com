@@ -164,9 +164,20 @@ header .titleContainer{
     background-color: #f50000;
     color: white;
     border-radius: 100px;
+    display: block;
 }
 .doordashButton:hover{
     background-color: #e60202;
+}
+.bentocartButton{
+    background-color: #ebcfc2;
+    color: #e60202;
+    border-radius: 100px;
+    display: block;
+    border: 2px solid #e64e03;
+}
+.bentocartButton:hover{
+    background-color: #dfbfb0;
 }
 
 /* catering section================================== */

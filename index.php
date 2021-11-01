@@ -38,7 +38,12 @@
                     <p style='background-color: rgba(0,0,0,0.6); border-radius: 16px; border: 1px solid #00dcff; padding: 0 6px; max-width: 400px; margin-top: 14px;'>
                         Monday to Saturday<br>9:30AM to 5PM.
                     </p>
-                    <a class='btn doordashButton' style='border-radius: 4px; margin-top: 10px;' href="https://www.doordash.com/business/218107/?utm_source=partner-link&utm_medium=website&utm_campaign=218107"><span style='font-size: 16px; background-color: transparent; color: white;'>Order online with</span> <strong>DOORDASH</strong></a>
+                    <a class='btn doordashButton' style='border-radius: 4px; margin-top: 25px;' href="https://www.doordash.com/business/218107/?utm_source=partner-link&utm_medium=website&utm_campaign=218107">
+                        <span style='font-size: 16px; background-color: transparent; color: white;'>Order online with</span> <strong>DOORDASH</strong>
+                    </a>
+                    <a class='btn bentocartButton' style='border-radius: 4px; margin-top: 10px;' href="https://www.bentocart.com/store/restaurant/265/">
+                        <span style='font-size: 16px; background-color: transparent; color: #e60202;'>Order online with</span> <strong>Bentocart</strong>
+                    </a>
                 </span> 
 
                 <div class='slide showing'></div>
@@ -125,10 +130,11 @@
                     <div class="disp-flex">
                         <div class="flex-60 disp-flex justify-content--center flex-dir-col padding-2">
                             <h2>Order Online</h2>
-                            <p>Need a quick meal? Order online from this food delivery service.</p>
+                            <p>Need a quick meal? Order online from these food delivery services.</p>
                         </div>
                         <div class="flex-40 disp-flex justify-content--center align-items--flex-start flex-dir-col">
-                            <a class='btn doordashButton' href="https://www.doordash.com/business/218107/?utm_source=partner-link&utm_medium=website&utm_campaign=218107">Order online with <strong>DOORDASH</strong> <i class="fas fa-external-link-alt"></i></a>
+                            <a class='btn doordashButton' href="https://www.doordash.com/business/218107/?utm_source=partner-link&utm_medium=website&utm_campaign=218107">Order online with <strong>DOORDASH</strong></a>
+                            <a class='btn bentocartButton' style='margin-top: 10px;' href="https://www.bentocart.com/store/restaurant/265/">Order online with <strong>Bentocart</strong></a>
                         </div>
                     </div>
                     <div class="padding50 hide-tablet"></div>
