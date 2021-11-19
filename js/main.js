@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // need to put all of them in same function
     window.onclick = function(event){
-        console.log('t or f: ', event.target.closest('.myLinks') == linkContainer);
+        // console.log('t or f: ', event.target.closest('.myLinks') == linkContainer);
         if(event.target != linkContainer && event.target.closest('.myLinks') != linkContainer && event.target.closest('.hamburgerIcon') != hamburgerButton){
             linkContainer.style.display = 'none';
         }
@@ -54,7 +54,7 @@ $(document).ready(function(){
         const slides = document.querySelectorAll('.slide');
         slides[currentSlideIndex].className = 'slide';
 
-        console.log('currentSlideIndex: ', currentSlideIndex);
+        // console.log('currentSlideIndex: ', currentSlideIndex);
         if(n === 'previous'){
             if(currentSlideIndex-1 < 0){
                 currentSlideIndex = slides.length;
@@ -108,7 +108,7 @@ $(document).ready(function(){
             
             if(visible){
               $(this).find('div').css('opacity', '1');
-              console.log('this: ', this);
+            //   console.log('this: ', this);
             }
             else{
               $(this).find('div').css('opacity', '0');
@@ -133,7 +133,7 @@ $(document).ready(function(){
     
     // change image when hover on category button
     $('.categoryButton').on('mouseover', function(){
-        console.log('hover');
+        // console.log('hover');
         const imgFile = $(this).attr('data-image');
         $('#menuSectionImage').attr('src', imgFile);
     });
