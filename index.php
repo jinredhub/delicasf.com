@@ -62,15 +62,22 @@
                     <div id='aboutHash' class='hash'></div>
                     <div class="disp-flex">
                         <div class="flex-60 disp-flex justify-content--center flex-dir-col padding-2">
-                            <h2>About</h2>
-                            <p>DELICA is delighted to introduce our distinctively delicious Japanese cuisine, which is born from a Japanese sensibility merged with California vitality. DELICA comes to California eager to learn from and contribute to the thriving food community in the Bay Area.</p>
+                            <!-- <h2>About</h2> -->
+                            <h2>Holiday Special</h2>
+                            <!-- <p>DELICA is delighted to introduce our distinctively delicious Japanese cuisine, which is born from a Japanese sensibility merged with California vitality. DELICA comes to California eager to learn from and contribute to the thriving food community in the Bay Area.</p> -->
+                            <p>
+                                Delica's Rost beef holiday special for your parties or gift. <br>All natural Angus, house roasted beef, $40 per pound for limited time. (12/15/2021 - 1/8/2022) <br>
+                            </p>
+                            <p style='margin-top: 0'>
+                                To place an order, please email to <a href="mailto:shop@delicasf.com" class='infoLink'>shop@delicasf.com</a> <br>or call at <a href="tel:415-834-0344" class='infoLink'>415-834-0344</a>
+                            </p>
                             <br>
                             <div style='text-align: center;'>
-                                <a class='btn btn-primary' href="./history.php">Read more</a>
+                                <!-- <a class='btn btn-primary' href="./history.php">Read more</a> -->
                             </div>
                         </div>
                         <div class="flex-40 padding-2">
-                            <img data-src="./images/history.jpg" alt="soup" class='lazyload'>
+                            <img data-src="./images/roast-beef.jpg" alt="soup" class='lazyload'>
                         </div>
                     </div>
                     <div class="padding50 hide-tablet"></div>

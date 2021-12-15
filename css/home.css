@@ -204,6 +204,7 @@ header .titleContainer{
 .infoLink{
     text-decoration: none;
     color: white;
+    text-decoration: underline;
 }
 
 /* parallax========================================== */
