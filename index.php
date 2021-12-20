@@ -36,7 +36,7 @@
                     <h1>DELICA</h1>
                     <p>JAPANESE DELI</p>
                     <p style='background-color: rgba(0,0,0,0.6); border-radius: 16px; border: 1px solid #00dcff; padding: 0 6px; max-width: 400px; margin-top: 14px;'>
-                        We will be closed on<br>December 25th
+                        We will be closed on<br>12/25 and 1/1
                     </p>
                     <a class='btn doordashButton' style='border-radius: 4px; margin-top: 25px;' href="https://order.online/business/delica-218107">
                         <span style='font-size: 16px; background-color: transparent; color: white;'>Order online with</span> <strong>DOORDASH</strong>
