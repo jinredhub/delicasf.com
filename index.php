@@ -18,7 +18,7 @@
         <!-- css -->
 		<link rel="stylesheet" type="text/css" href="css/animate.css">
 		<link rel="stylesheet" type="text/css" href="css/style.css">
-        <link rel="stylesheet" type="text/css" href="css/home.css?version10">
+        <link rel="stylesheet" type="text/css" href="css/home.css?version11">
         
     </head>
     <body>
@@ -104,13 +104,13 @@
                             <h2>Menu</h2>
                             <p>DELICA is delighted to introduce our distinctively delicious Japanese cuisine, which is born from a Japanese sensibility merged with California vitality. DELICA comes to California eager to learn from and contribute to the thriving food community in the Bay Area.</p>
                             <div style='text-align: center;'>
-                                <a data-image='./images/menu_salad.jpg' class='btn btn-primary categoryButton' href="../images/menu/salad.pdf?version10">Salad</a>
-                                <a data-image='./images/menu_deli.jpg' class='btn btn-primary categoryButton' href="../images/menu/deli.pdf?version10">Deli</a>
-                                <a data-image='./images/menu_donburi.jpg' class='btn btn-primary categoryButton' href="../images/menu/donburi.pdf?version10">Donburi</a>
-                                <a data-image='./images/menu_soup.jpg' class='btn btn-primary categoryButton' href="../images/menu/soup.pdf?version10">Soup</a>
-                                <a data-image='./images/menu_sushi.jpg' class='btn btn-primary categoryButton' href="../images/menu/sushi.pdf?version10">Sushi</a>
-                                <a data-image='./images/menu_bento.jpg' class='btn btn-primary categoryButton' href="../images/menu/bento.pdf?version10">Bento</a>
-                                <a data-image='./images/menu_sandwich.jpg' class='btn btn-primary categoryButton' href="../images/menu/sandwich.pdf?version10">Sandwich</a>
+                                <a data-image='./images/menu_salad.jpg' class='btn btn-primary categoryButton' href="../images/menu/salad.pdf?version11">Salad</a>
+                                <a data-image='./images/menu_deli.jpg' class='btn btn-primary categoryButton' href="../images/menu/deli.pdf?version11">Deli</a>
+                                <a data-image='./images/menu_donburi.jpg' class='btn btn-primary categoryButton' href="../images/menu/donburi.pdf?version11">Donburi</a>
+                                <a data-image='./images/menu_soup.jpg' class='btn btn-primary categoryButton' href="../images/menu/soup.pdf?version11">Soup</a>
+                                <a data-image='./images/menu_sushi.jpg' class='btn btn-primary categoryButton' href="../images/menu/sushi.pdf?version11">Sushi</a>
+                                <a data-image='./images/menu_bento.jpg' class='btn btn-primary categoryButton' href="../images/menu/bento.pdf?version11">Bento</a>
+                                <a data-image='./images/menu_sandwich.jpg' class='btn btn-primary categoryButton' href="../images/menu/sandwich.pdf?version11">Sandwich</a>
                             </div>
                             <div class='message message-warning'>
                                 <strong>These items are temporarily unavailable</strong><br/>

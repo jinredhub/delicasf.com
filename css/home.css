@@ -85,7 +85,7 @@ header .titleContainer{
     background-image: url("../images/top2.jpg");
    }
    .slide:nth-of-type(3){
-    background-image: url("../images/top3.jpg");
+    background-image: url("../images/top-onigiri.jpg");
    }
    .slide{
     position: absolute;
