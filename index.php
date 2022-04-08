@@ -106,7 +106,7 @@
                             </div>
                             <div class='message message-warning'>
                                 <strong>These items are temporarily unavailable</strong><br/>
-                                Futomaki roll, Tofu chicken patty Sandwitch
+                                Futomaki roll, Tofu chicken patty
                             </div>
                         </div>
                         <div class="flex-40 padding-2">
