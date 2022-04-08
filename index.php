@@ -103,7 +103,6 @@
                                 <a data-image='./images/menu_soup.jpg' class='btn btn-primary categoryButton' href="../images/menu/soup.pdf?version11">Soup</a>
                                 <a data-image='./images/menu_sushi.jpg' class='btn btn-primary categoryButton' href="../images/menu/sushi.pdf?version11">Sushi</a>
                                 <a data-image='./images/menu_bento.jpg' class='btn btn-primary categoryButton' href="../images/menu/bento.pdf?version11">Bento</a>
-                                <a data-image='./images/menu_sandwich.jpg' class='btn btn-primary categoryButton' href="../images/menu/sandwich.pdf?version11">Sandwich</a>
                             </div>
                             <div class='message message-warning'>
                                 <strong>These items are temporarily unavailable</strong><br/>
