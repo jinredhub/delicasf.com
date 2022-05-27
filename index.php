@@ -131,6 +131,7 @@
                         <div class="flex-40 disp-flex justify-content--center align-items--flex-start flex-dir-col">
                             <a class='btn doordashButton' href="https://order.online/business/delica-218107">Order online with <strong>DOORDASH</strong></a>
                             <a class='btn bentocartButton' style='margin-top: 10px;' href="https://www.bentocart.com/store/restaurant/265/">Order online with <strong>Bentocart</strong></a>
+                            <a class='btn uberEatsButton' style='margin-top: 10px;' href="https://www.order.store/store/delica/NVKbp0yAV4mcWm2sdQhQrw?diningMode=DELIVERY">Order online with <strong>Uber Eats</strong></a>
                         </div>
                     </div>
                     <div class="padding50 hide-tablet"></div>

@@ -167,7 +167,7 @@ header .titleContainer{
     display: block;
 }
 .doordashButton:hover{
-    background-color: #e60202;
+    background-color: #eb4040;
 }
 .bentocartButton{
     background-color: #ebcfc2;
@@ -177,7 +177,17 @@ header .titleContainer{
     border: 2px solid #e64e03;
 }
 .bentocartButton:hover{
-    background-color: #dfbfb0;
+    background-color: #fbebe3;
+}
+.uberEatsButton{
+    background-color: #000;
+    color: #FFF;
+    border-radius: 100px;
+    display: block;
+    border: 2px solid #06C167;
+}
+.uberEatsButton:hover{
+    background-color: rgb(58, 58, 58);
 }
 
 /* catering section================================== */
