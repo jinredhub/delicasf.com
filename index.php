@@ -38,8 +38,13 @@
                     <p style='background-color: rgba(0,0,0,0.6); border-radius: 16px; border: 1px solid #00dcff; padding: 0 6px; max-width: 400px; margin-top: 14px;'>
                         Mon-Sat: 9:30am - 3pm
                     </p>
+                    <!-- doordash button -->
                     <a class='btn doordashButton' style='border-radius: 4px; margin-top: 25px;' href="https://order.online/business/delica-218107">
                         <span style='font-size: 16px; background-color: transparent; color: white;'>Order online with</span> <strong>DOORDASH</strong>
+                    </a>
+                    <!-- uberEats button -->
+                    <a class='btn uberEatsButton' style='border-radius: 4px; border: none; margin-top: 10px;' href="https://www.order.store/store/delica/NVKbp0yAV4mcWm2sdQhQrw?diningMode=DELIVERY">
+                        Order online with <strong>Uber Eats</strong>
                     </a>
                 </span> 
 
