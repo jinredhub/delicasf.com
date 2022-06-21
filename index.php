@@ -18,7 +18,7 @@
         <!-- css -->
 		<link rel="stylesheet" type="text/css" href="css/animate.css">
 		<link rel="stylesheet" type="text/css" href="css/style.css">
-        <link rel="stylesheet" type="text/css" href="css/home.css?version11">
+        <link rel="stylesheet" type="text/css" href="css/home.css?version12">
         
     </head>
     <body>
@@ -75,7 +75,7 @@
                             </div>
                         </div>
                         <div class="flex-40 padding-2">
-                            <img data-src="./images/history.jpg?version11" alt="soup" class='lazyload'>
+                            <img data-src="./images/history.jpg?version12" alt="soup" class='lazyload'>
                         </div>
                     </div>
                     <div class="padding50 hide-tablet"></div>
@@ -102,16 +102,16 @@
                             <h2>Menu</h2>
                             <p>DELICA is delighted to introduce our distinctively delicious Japanese cuisine, which is born from a Japanese sensibility merged with California vitality. DELICA comes to California eager to learn from and contribute to the thriving food community in the Bay Area.</p>
                             <div style='text-align: center;'>
-                                <a data-image='./images/menu_salad.jpg' class='btn btn-primary categoryButton' href="../images/menu/salad.pdf?version11">Salad</a>
-                                <a data-image='./images/menu_deli.jpg' class='btn btn-primary categoryButton' href="../images/menu/deli.pdf?version11">Deli</a>
-                                <a data-image='./images/menu_donburi.jpg' class='btn btn-primary categoryButton' href="../images/menu/donburi.pdf?version11">Donburi</a>
-                                <a data-image='./images/menu_soup.jpg' class='btn btn-primary categoryButton' href="../images/menu/soup.pdf?version11">Soup</a>
-                                <a data-image='./images/menu_sushi.jpg' class='btn btn-primary categoryButton' href="../images/menu/sushi.pdf?version11">Sushi</a>
-                                <a data-image='./images/menu_bento.jpg' class='btn btn-primary categoryButton' href="../images/menu/bento.pdf?version11">Bento</a>
+                                <a data-image='./images/menu_salad.jpg' class='btn btn-primary categoryButton' href="../images/menu/salad.pdf?version12">Salad</a>
+                                <a data-image='./images/menu_deli.jpg' class='btn btn-primary categoryButton' href="../images/menu/deli.pdf?version12">Deli</a>
+                                <a data-image='./images/menu_donburi.jpg' class='btn btn-primary categoryButton' href="../images/menu/donburi.pdf?version12">Donburi</a>
+                                <a data-image='./images/menu_soup.jpg' class='btn btn-primary categoryButton' href="../images/menu/soup.pdf?version12">Soup</a>
+                                <a data-image='./images/menu_sushi.jpg' class='btn btn-primary categoryButton' href="../images/menu/sushi.pdf?version12">Sushi</a>
+                                <a data-image='./images/menu_bento.jpg' class='btn btn-primary categoryButton' href="../images/menu/bento.pdf?version12">Bento</a>
                             </div>
                             <div class='message message-warning'>
                                 <strong>These items are temporarily unavailable</strong><br/>
-                                Futomaki roll, Tofu chicken patty
+                                Tofu Chicken Patty, Crab Croquette
                             </div>
                         </div>
                         <div class="flex-40 padding-2">
