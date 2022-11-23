@@ -35,9 +35,8 @@
                     <h1>DELICA</h1>
                     <p>JAPANESE DELI</p>
                     <!-- temp message -->
-                    <p style='background-color: rgba(0,0,0,0.6); border-radius: 16px; border: 1px solid #00dcff; padding: 12px; max-width: 400px; margin-top: 14px; line-height: normal; font-size: 16px; text-align: left;'>
-                        We will be closed at 1pm on November 17th, and the whole day on November 18the and 19the for a private event. 
-                        We apologize for any incovenience.
+                    <p style='background-color: rgba(0,0,0,0.6); border-radius: 16px; border: 1px solid #00dcff; padding: 12px; max-width: 400px; margin-top: 14px; line-height: normal; font-size: 18px; text-align: left;'>
+                       We are closed on Thanksgiving Day
                     </p>
                     <!-- hours -->
                     <p style='background-color: rgba(0,0,0,0.6); border-radius: 16px; border: 1px solid #00dcff; padding: 0 6px; max-width: 400px; margin-top: 14px;'>
