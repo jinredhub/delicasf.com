@@ -40,7 +40,7 @@
                     </p> -->
                     <!-- hours -->
                     <p style='background-color: rgba(0,0,0,0.6); border-radius: 16px; border: 1px solid #00dcff; padding: 0 6px; max-width: 400px; margin-top: 14px;'>
-                        Mon-Sat: 9:30am - 3pm
+                        Mon-Sat: 9:30am - 4pm
                     </p>
                     <!-- doordash button -->
                     <a class='btn doordashButton' style='border-radius: 4px; margin-top: 25px;' href="https://order.online/business/delica-218107">
@@ -230,7 +230,7 @@
                             <div hidden class='line show-tablet'></div>
                             <h3>Deli / Lunch</h3>
                             <p> 
-                                Mon-Sat: 9:30am - 3pm <br>
+                                Mon-Sat: 9:30am - 4pm <br>
                                 Sun: Closed <br>
                             </p>
                         </div>
