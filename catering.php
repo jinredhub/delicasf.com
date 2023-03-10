@@ -47,19 +47,6 @@
                         </div>
                     </div>
 
-                    <div class='padding30'></div>
-                    <div class="disp-flex">
-                        <div class="flex-50 disp-flex align-items--center">
-                            <h2>Sushi where you are</h2>
-                        </div>
-                        <div class="flex-50">
-                            <p>
-                                How about having a sushi station for your special occasion? At your request, DELICA can deliver an assortment of sushi rolls,
-                                or even a suhi chef to make fresh sushi on-site.
-                            </p>
-                        </div>
-                    </div>
-
                     <div class="padding30"></div>
                     <div class="disp-flex">
                         <div class="flex-50 disp-flex align-items--center">
